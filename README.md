@@ -1,3 +1,5 @@
+<img src="https://pbs.twimg.com/profile_banners/1716100629402148864/1697986222/1500x500">
+
 <h1 align="center">Hi 👋, I'm Gopi</h1>
 <h3 align="center">Working on becoming a full stack developer from India</h3>
 
