@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopiwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="gopiwebdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gopi_webdev" target="blank"><img src="https://img.shields.io/twitter/follow/gopi_webdev?logo=twitter&style=for-the-badge" alt="gopi_webdev" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **gopisv.webdev@gmail.com**
