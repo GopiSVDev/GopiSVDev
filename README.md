@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopiwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="gopiwebdev" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **gopisv.webdev@gmail.com**
 
