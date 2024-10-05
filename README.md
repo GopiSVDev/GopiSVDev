@@ -1,5 +1,3 @@
-<img src="https://pbs.twimg.com/profile_banners/1716100629402148864/1697986222/1500x500">
-
 # 💫 About Me:
 🌱 I’m currently learning React<br>📫 How to reach me gopisv.webdev@gmail.com<br>⚡ Fun fact I am from commerce background
 
