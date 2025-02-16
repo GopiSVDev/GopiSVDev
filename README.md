@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gopi</h1>
 <h3 align="center">Working on becoming a full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Backend Development (JS)**
+- 🌱 I’m currently learning **Backend Development (Java)**
 - 📫 How to reach me **gopisv.webdev@gmail.com**
 
 
