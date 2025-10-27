@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gopi</h1>
-<h3 align="center">Working on becoming a full stack developer from India</h3>
+<h3 align="center">A Self Taught Developer</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **To Build Clean Applications**
 
 - 📫 How to reach me **gopisvdev@gmail.com**
 
